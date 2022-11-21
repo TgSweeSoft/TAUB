@@ -5,4 +5,7 @@
 * pkg upgrade && pkg update
 * pkg install pip
 * pkg install python
-* pkg
+* git clone https://github.com/TgSweeSoft/TAUB
+* cd TAUB
+* pip install -r requirements.txt
+* python main.py
