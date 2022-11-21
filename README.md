@@ -8,4 +8,5 @@
 * git clone https://github.com/TgSweeSoft/TAUB
 * cd TAUB
 * pip install -r requirements.txt
+* python mkphoto.py
 * python main.py
